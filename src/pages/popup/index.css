@@ -1,0 +1,21 @@
+body {
+  width: 22.5rem;
+  height: 37.5rem;
+  overflow-y: hidden;
+  overflow-x: hidden;
+  margin: 0;
+  background-color: #101413;
+  font-family: " apple-system", "BlinkMacSystemFont", "Segoe UI", "Roboto",
+    "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+  position: relative;
+}
+::-webkit-scrollbar {
+  display: none;
+}
+.noscroll {
+  overflow: hidden;
+}
