@@ -16,9 +16,9 @@ KADET is a multi-chain crypto wallet web extension that allows users to hold and
 
 ### ruunning the code locally : 
 
-1- npm i.
-2= npm run dev.
-3- (dist) : after that you can load the dist file to your chrome or any chromium explorer.
+(1) npm i.
+(2) npm run dev.
+(3) (dist) : after that you can load the dist file to your chrome or any chromium explorer.
 
 - if there is any problem happen i think it will be even from Node.js version "should be 16 and above " or "cardano-crypto.js":
 
