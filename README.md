@@ -1,10 +1,10 @@
-#### kadet-wallet-web-extension
+### kadet-wallet-web-extension
 KADET is a multi-chain crypto wallet web extension that allows users to hold and transact tokens and NFTs. incubated by Tech Fleet, a US-based DAO.
 
 
 ![prototype ](https://github.com/techfleetworks/kadet-wallet-web-extension-NEW/assets/84674817/45e20bf2-043b-40ce-a71c-0e0d29940c4e)
 
-### Tech Stack : 
+## Tech Stack : 
 
 - TypeScript - programming language 
 - Semantic HTML5 markup
@@ -14,7 +14,7 @@ KADET is a multi-chain crypto wallet web extension that allows users to hold and
 - [Taillwind](https://tailwindcss.com/) - For styles
   
 
-### ruunning the code locally : 
+## Running the code locally:
 
 1. npm i.
 2. npm run dev.
