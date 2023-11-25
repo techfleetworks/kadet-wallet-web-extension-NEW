@@ -11,7 +11,7 @@ KADET is a multi-chain crypto wallet web extension that allows users to hold and
 - menifest 3 - to run browser extensions
 - Vite - web-boundler
 - [React](https://reactjs.org/) - JS library
-- [TailWind](https://tailwindcss.com/) - For styles
+- [Taillwind](https://tailwindcss.com/) - For styles
   
 
 ### ruunning the code locally : 
